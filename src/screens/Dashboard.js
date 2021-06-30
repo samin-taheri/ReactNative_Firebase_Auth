@@ -10,10 +10,9 @@ export default function Dashboard() {
   return (
     <Background>
       <Logo />
-      <Header>Let’s start</Header>
+      <Header>Flower Shop</Header>
       <Paragraph>
-        Your amazing app starts here. Open you favorite code editor and start
-        editing this project.
+        Hi!
       </Paragraph>
       <Button mode="outlined" onPress={logoutUser}>
         Logout

@@ -47,7 +47,7 @@ export default function RegisterScreen({ navigation }) {
     <Background>
       <BackButton goBack={navigation.goBack} />
       <Logo />
-      <Header>Create Account</Header>
+      <Header>Don't have an account ?</Header>
       <TextInput
         label="Name"
         returnKeyType="next"

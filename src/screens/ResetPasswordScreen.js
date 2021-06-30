@@ -37,7 +37,7 @@ export default function ResetPasswordScreen({ navigation }) {
     <Background>
       <BackButton goBack={navigation.goBack} />
       <Logo />
-      <Header>Restore Password</Header>
+      <Header>Reset Password</Header>
       <TextInput
         label="E-mail address"
         returnKeyType="done"
