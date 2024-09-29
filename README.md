@@ -7,20 +7,6 @@ To test the application:
 4. yarn Android/ios.
 
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/samin-taheri/login-signup-firebase/assets/58706708/f30d67d1-1c94-452d-a14c-2112166acd08.png" width="500" />
-    </td>
-  </tr>
-</table>
+![Login Signup Firebase Image 1](https://github.com/samin-taheri/login-signup-firebase/assets/58706708/f30d67d1-1c94-452d-a14c-2112166acd08.png)
 
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/samin-taheri/login-signup-firebase/assets/58706708/f145fd7c-4c4f-4e28-a043-c69f2eda4205.png" width="500" />
-    </td>
-  </tr>
-</table>
+![Login Signup Firebase Image 2](https://github.com/samin-taheri/login-signup-firebase/assets/58706708/f145fd7c-4c4f-4e28-a043-c69f2eda4205.png)
